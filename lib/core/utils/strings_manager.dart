@@ -1,0 +1,31 @@
+class StringsManager{
+  static const String welcome = "Hello, I'm Ali Samir";
+  static const String freelancer = "Freelancer";
+  static const String androidDeveloper = "Android Developer";
+  static const String flutterDeveloper = "Flutter Developer";
+  static const String experience = "2+ years of experience";
+  static const String summary = "With over 2 years of experience in mobile development, I specialize in Android and Flutter, crafting user-friendly applications tailored to client needs. Proficient in mobile development specially Android and Flutter, I've launched several apps on the stores garnering positive user feedback and high ratings. With a strong foundation in Android and Flutter development, combined with a track record of successful projects and a commitment to client satisfaction, I offer comprehensive mobile development services to bring your app ideas to life.";
+  static const String downloadCv = "Download CV";
+  static const String whatCanIDo = "What Can I Do ?";
+  static const String whatCanIDoDesc = "As an experienced mobile developer, I offer comprehensive services tailored to your app development needs. With a background in corporate environments and freelancing, I bring a unique blend of structured expertise and entrepreneurial agility to every project. Whether it's native or cross-platform development, UI/UX design, API integration, or ongoing support, I deliver high-quality, user-centric solutions that drive engagement and exceed expectations. Let's collaborate to bring your app ideas to life and propel your business forward.";
+  static const String flutterServiceTitle = "Cross-platform";
+  static const String androidServiceTitle = "Android development";
+  static const String flutterServiceDesc = "Creating high quality apps for Android, IOS, Web and Desktop from scratch";
+  static const String androidServiceDesc = "Crafting Android native apps with high performance";
+  static const String home = "Home";
+  static const String services = "Services";
+  static const String works = "Works";
+  static const String contact = "Contact";
+  static const String projects = "Projects";
+  static const String android = "Android";
+  static const String flutter = "Flutter";
+  static const String tabView = "Tab To View";
+  static const String contactMe = "Contact Me";
+  static const String Linkedin = "LinkedIn";
+  static const String Github = "Github";
+  static const String upwork = "Upwork";
+  static const String copied = "Copied To Clipboard";
+  static const String tabToViewPlayStore = "Tab To View Play Store";
+  static const String tabToViewAppStore = "Tab To View App Store";
+  static const String tabToViewGithub = "Tab To View Github";
+}

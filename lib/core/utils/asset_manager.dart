@@ -1,0 +1,31 @@
+class AssetManager{
+  static const String menu = "assets/images/menu.svg";
+  static const String myPhoto = "assets/images/my photo.jpg";
+  static const String hiAnimation = "assets/lottie/hi.json";
+  static const String android = "assets/images/android.svg";
+  static const String flutter = "assets/images/flutter.svg";
+  static const String check = "assets/images/check.svg";
+  static const String smile = "assets/images/smile.svg";
+  static const String contact = "assets/images/contact.svg";
+  static const String works = "assets/images/works.svg";
+  static const String home = "assets/images/home.svg";
+  static const String astdafa = "assets/images/astdafa_icon.jpeg";
+  static const String capitano = "assets/images/Capitano_logo.png";
+  static const String goleadoor = "assets/images/goleadoor_logo.png";
+  static const String grays = "assets/images/logo_grays.jpg";
+  static const String meetoor = "assets/images/meetoor_launcher.png";
+  static const String rafal = "assets/images/rafal_logo.png";
+  static const String smarthomesecurity = "assets/images/smarthomesecurity.png";
+  static const String tawqeet = "assets/images/tawqeet_icon.png";
+  static const String upwork = "assets/images/upwork.svg";
+  static const String freelancer = "assets/images/freelancer.svg";
+  static const String email = "assets/images/email.svg";
+  static const String phone = "assets/images/phone.svg";
+  static const String linkedin = "assets/images/linkedin.svg";
+  static const String github = "assets/images/github.svg";
+  static const String androidNews = "assets/images/android_news_icon.png";
+  static const String islamy = "assets/images/islamy_logo.png";
+  static const String flutterNews = "assets/images/news_logo.png";
+  static const String todo = "assets/images/todo_logo.png";
+  static const String haqtak = "assets/images/haqtak_logo.png";
+}

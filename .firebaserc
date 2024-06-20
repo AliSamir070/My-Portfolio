@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "prod": "myportfolio-9e2c5",
+    "default": "myportfolio-9e2c5"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
